@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "106046947896",
+    "project_id": "connfy-aa8f8",
+    "storage_bucket": "connfy-aa8f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106046947896:android:2dac98b96695a0b6c21ccd",
+        "android_client_info": {
+          "package_name": "com.slice.newconnfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106046947896-9puh1kjube6df22t5pgpnfq3s2081upk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slice.newconnfy",
+            "certificate_hash": "967f59eb2af6316c26a8154d0694af88c83996f4"
+          }
+        },
+        {
+          "client_id": "106046947896-e6alji5u6caorhmv6ruggorornleunnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC9CeFybEt__r3CNqg82OqGR1kT5p001s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106046947896-e6alji5u6caorhmv6ruggorornleunnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
